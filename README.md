@@ -3,6 +3,7 @@
 This is the first exercise for IB9MH. 
 
 Now I add some changes to this file. 
+<<<<<<< HEAD
 
 I added this line using me local computer on RStudio
 
@@ -59,3 +60,6 @@ You should see the new “This is a line from RStudio” in the README.
 If you click on “commits”, you should see one with the message “Commit from RStudio”.
 
 If you have made it this far, you are DONE with set up. Congratulations!
+=======
+A line I wrote on my local computer.
+>>>>>>> ecda715f4fca9fff852562964550d2d7646fd5b5
