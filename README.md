@@ -60,3 +60,19 @@ If you click on “commits”, you should see one with the message “Commit fro
 
 If you have made it this far, you are DONE with set up. Congratulations!
 
+# Some commonly used GitHub instructions
+
+cd name of your repo -> select specific working directory on GitHub
+
+ls -> list all files with the repo
+
+git add . -> save everything 
+
+git clone -> copy repo from GitHub to your local computer manually
+
+git commit -> update changes with a comment
+
+git pull/push -> update from webite to local/update from local to website
+
+For more commands please view: https://www.atlassian.com/git/glossary#commands
+
