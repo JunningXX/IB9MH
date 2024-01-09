@@ -1,3 +1,5 @@
-# This is the examlpe file for README.md 
+# This is the example file for README.md 
 
-This is the first execrise for IB9MH. 
+This is the first exercise for IB9MH. 
+
+Now I add some changes to this file. 
