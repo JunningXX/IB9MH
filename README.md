@@ -48,6 +48,7 @@ Click “Commit”.
 Click the green “Push” button to send your local changes to GitHub.
 
 You should not experience a credential challenge. In this step, you will be asked to enter your GitHub username and password. You should use the access token as a password. For detail see: https://happygitwithr.com/push-pull-github#push-pull-github 
+
 4. Confirm the local change propagated to the GitHub remote
 
 Go back to the browser. I assume we’re still viewing your new GitHub repo.
