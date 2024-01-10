@@ -6,9 +6,9 @@ Now I add some changes to this file.
 
 I added this line using me local computer on RStudio
 
-How to specifically link your RStudio to GitHub:
+## How to specifically link your RStudio to GitHub:
 
-## Preperations on GitHub side
+### Preperations on GitHub side
 1. You need to have a GitHub account
 2. Create a repository on GitHub 
 3. Give your repository a name and a description such as"IB9MH" and "Lecture material for IB9MH"
@@ -19,7 +19,7 @@ How to specifically link your RStudio to GitHub:
 *8. you should also have a personal access token for HTTPS (For details please look https://happygitwithr.com/https-pat)
 
 
-## Preperations on RStudio
+### Preperations on RStudio
 1. In RStudio, start a new Project:
   File > New Project > Version Control > Git. In “Repository URL”, paste the URL of your new GitHub repository. It will be something like this https://github.com/JunningXX/IM9MH.git.
   Accept the default project directory name, e.g. "IB9MH", which coincides with the GitHub repo name.
