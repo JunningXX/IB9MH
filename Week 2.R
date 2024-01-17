@@ -91,3 +91,5 @@ text(load,labels=names(rawdata_02[,-1]),cex=.7)
 loads <- fit$loadings
 
 fa.diagram(loads)
+
+
